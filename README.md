@@ -1,0 +1,2 @@
+# kitty
+Configuration of kitty 
